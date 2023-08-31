@@ -9,7 +9,7 @@ Covid Vaccination rate and percentage of rolling people vaccinated.
 A Dashboard from this offical covid data is developed using **Tableau** and the data analysis is done using **SQL** to answer above topics, while **Excel** will serve as first repository and transforming of data.
 
 # Tableau Dashboard
-The interactive Dashboard based upon collected Covid Data from 01.01.2020 to 23.05.2023 is shown in image below while subsequent link is also atatched:
+The interactive Dashboard based upon collected Covid Data from **01.01.2020** to **23.05.2023** is shown in image below while subsequent link is also atatched:
 ![Dashboard](Media/Dashboard.png)
 Click [here](https://public.tableau.com/app/profile/usama.zafar.qureshi/viz/Coviddata_16935098717520/Dashboard1?publish=yes) for the tableau dashboard.
 
